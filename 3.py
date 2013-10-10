@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 def main():
+    """Return the largest prime factor of 600851475143."""
     x, factors, divisor = 600851475143, [], 2
     while x > 1:
         while x % divisor == 0:
