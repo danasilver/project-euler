@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """Finds the greatest product of four adjacent numbers in the same direction
-(up, down, left, right, diagnol) in a grid.
+(up, down, left, right, diagonal) in a grid.
 """
 
 from operator import mul
